@@ -1,6 +1,6 @@
 
-System Manager:
-Experienced in storing configuration and secrets using AWS System Manager and access them using boto3 client
+#System Manager:
+#Experienced in storing configuration and secrets using AWS System Manager and access them using boto3 client
 
 import boto3
 import pprint
